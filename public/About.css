@@ -1,0 +1,30 @@
+body {
+
+    background: rgb(32, 183, 83);
+}
+#navbarC {
+    display: flex;
+    border: solid 10px lightgray;
+    border-radius: 20px 20px 20px 20px;
+    background-color: aliceblue;
+    font-size: xx-large;
+    font-family: Impact;
+    justify-content: space-around;
+}
+
+p {
+    text-align: center;
+    font-size: x-large;
+    font-family: Fantasy;
+}
+
+hobby {
+    text-align: left;
+    font-size: x-large;
+    font-family: Impact;
+}
+
+#passions {
+    display: flex;
+    flex-wrap: wrap;
+}

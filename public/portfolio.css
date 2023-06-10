@@ -1,0 +1,19 @@
+body{
+    background: rgb(0, 146, 0);
+}
+
+#navbarB {
+    display: flex;
+    border: solid 10px lightgray;
+    border-radius: 20px 20px 20px 20px;
+    background-color: aliceblue;
+    font-size: xx-large;
+    font-family: Impact;
+    justify-content: space-around;
+    text-decoration: none;
+}
+
+h1{
+    background-color: aquamarine;
+}
+
